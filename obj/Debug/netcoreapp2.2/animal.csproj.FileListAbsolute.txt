@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.csprojAssemblyReference.cache
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.AssemblyInfo.cs
+/Users/Guest/Desktop/animalpark/bin/Debug/netcoreapp2.2/animal.deps.json
+/Users/Guest/Desktop/animalpark/bin/Debug/netcoreapp2.2/animal.runtimeconfig.json
+/Users/Guest/Desktop/animalpark/bin/Debug/netcoreapp2.2/animal.runtimeconfig.dev.json
+/Users/Guest/Desktop/animalpark/bin/Debug/netcoreapp2.2/animal.dll
+/Users/Guest/Desktop/animalpark/bin/Debug/netcoreapp2.2/animal.pdb
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.dll
+/Users/Guest/Desktop/animalpark/obj/Debug/netcoreapp2.2/animal.pdb
